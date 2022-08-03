@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Facebook {
+public class Facebooktest {
 	
 	@Test
 	public void faceBook() throws Throwable {

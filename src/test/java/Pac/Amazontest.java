@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Amazon {
+public class Amazontest {
 
 	@Test
 	public void faceBook() throws Throwable {
